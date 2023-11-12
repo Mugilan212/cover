@@ -25,6 +25,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+## cover.html
 ```html
 
 <!DOCTYPE html>
@@ -136,9 +137,10 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Alt text](<web ex 6 1.png>)
+![web ex 6 1](https://github.com/Mugilan212/cover/assets/144508901/0f5e3023-4327-4715-9a4f-024b05d317fb)
 
-![Alt text](<web ex 6.png>)
+
+![web ex 6](https://github.com/Mugilan212/cover/assets/144508901/21bb9e17-ce11-4feb-aec0-4371166a3c87)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
